@@ -1,0 +1,154 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+}
+h1{
+
+  font-family: 'Montserrat';
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-weight: 900;
+}
+h2{
+  line-height: 1.5;
+  font-size: 3rem;
+  font-family: "Montserrat";
+  font-weight: 650;
+}
+h3{
+  font-size: 1.5rem;
+  font-family: 'Montserrat';
+  font-weight: bold;
+  padding-top: 25px;
+  text-align: center;
+}
+p{
+  color: #8f8f8f;
+  text-align: center;
+
+}
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+  position: static;
+}
+
+.title-image{
+  position: relative;
+}
+#features{
+  margin: 50px auto 50px;
+  background-color: #fff;
+}
+
+.container-fluid{
+  padding: 4% 15%;
+}
+/* Navigation Bar */
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+.nav-item{
+  padding:  0 18px;
+}
+.navbar{
+  padding:0 0 4.5rem;
+}
+.nav-link{
+  font-family: 'Montserrat';
+  font-size: 1.2rem;
+}
+
+/* Download-Button */
+
+.download-btn{
+  margin: 5% 3% 5% 0;
+}
+
+/* Title-image */
+
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+/* Iconify */
+
+.feature-icon{
+  color:  #ef8172;
+  width: 100%;
+  height: 4.3rem;
+}
+.feature-icon:hover{
+  color: #ff4c68;
+}
+
+/* testimonial */
+
+#testimonials{
+  text-align: center;
+  background-color:  #ef8172;
+  color: #fff;
+}
+
+.carousel-inner{
+    padding: 7% 15%;
+}
+.testimonial-image{
+  border-radius: 100%;
+  width: 10%;
+  margin: 30px;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing{
+    text-align: center;
+    padding: 100px;
+}
+.price-col {
+  padding: 3% 2%;
+}
+.btnbutton{
+  width: 90%;
+}
+
+#cta{
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  padding:
+}
+.check{
+  font-size: 40px;
+}
+
+#footer{
+  background-color: white;
+  text-align: center;
+}
+.social{
+  width:  42px;
+}
+
+/* @media (max-width:900px) {
+  .icon-foot{
+    padding-left: 220px;
+  }
+}
+@media (max-width: 650px) {
+  .icon-foot{
+    padding-left: 124px;
+  }
+} */
